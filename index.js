@@ -7,6 +7,12 @@ var spatzQuotes = [{
 }, {
   text: "explain formatting",
   author: "Spatz"
+}, {
+  text: "thats how twitter works",
+  author: "Spatz"
+}, {
+  text: "that does not look right",
+  author: "Spatz"
 }]
 
 app.use('/api/all', function(req, res) {
