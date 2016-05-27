@@ -16,7 +16,24 @@ var spatzQuotes = [{
 }, {
   text: "https://files.gitter.im/FreeCodeCamp/FreeCodeCamp/y6Wy/blob",
   author: "Spatz"
+}, {
+  text: "you'll just be selling your brownies from now on or live on brownie interest",
+  author: "Spatz"
+}, {
+  text: "somebody summoned the penguin",
+  author: "Spatz"
+}, {
+  text: "(its a very tiny hello, like font-size 0.01)",
+  author: "Spatz"
+}, {
+  text: "thanks @obama",
+  author: "Spatz"
+}, {
+  text: "I feel like LukeWarmSloths would be better",
+  author: "Spatz"
 }]
+
+
 
 app.use('/api/all', function(req, res) {
   res.json(spatzQuotes)
