@@ -13,6 +13,9 @@ var spatzQuotes = [{
 }, {
   text: "that does not look right",
   author: "Spatz"
+}, {
+  text: "https://files.gitter.im/FreeCodeCamp/FreeCodeCamp/y6Wy/blob",
+  author: "Spatz"
 }]
 
 app.use('/api/all', function(req, res) {
