@@ -31,6 +31,9 @@ var spatzQuotes = [{
 }, {
   text: "I feel like LukeWarmSloths would be better",
   author: "Spatz"
+}, {
+  text: "i live on 5th floor and i have a snail on my window why do snails do that",
+  author: "Spatz"
 }]
 
 
